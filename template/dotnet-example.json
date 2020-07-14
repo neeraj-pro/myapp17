@@ -27,7 +27,7 @@
                             "iconClass": "icon-dotnet",
                             "tags": "builder,.net,dotnet,dotnetcore",
                             "supports": "dotnet",
-                            "sampleRepo": "https://github.com/redhat-developer/s2i-dotnetcore-ex.git",
+                            "sampleRepo": "https://github.com/neeraj-pro/myapp17.git",
                             "sampleContextDir": "app",
                             "sampleRef": "dotnetcore-3.1"
                         },
@@ -47,7 +47,7 @@
                             "iconClass": "icon-dotnet",
                             "tags": "builder,.net,dotnet,dotnetcore,rh-dotnet31",
                             "supports": "dotnet:3.1,dotnet",
-                            "sampleRepo": "https://github.com/redhat-developer/s2i-dotnetcore-ex.git",
+                            "sampleRepo": "https://github.com/neeraj-pro/myapp17.git",
                             "sampleContextDir": "app",
                             "sampleRef": "dotnetcore-3.1",
                             "version": "3.1"
@@ -68,7 +68,7 @@
                             "iconClass": "icon-dotnet",
                             "tags": "builder,.net,dotnet,dotnetcore,rh-dotnet21",
                             "supports": "dotnet:2.1,dotnet",
-                            "sampleRepo": "https://github.com/redhat-developer/s2i-dotnetcore-ex.git",
+                            "sampleRepo": "https://github.com/neeraj-pro/myapp17.git",
                             "sampleContextDir": "app",
                             "sampleRef": "dotnetcore-2.1",
                             "version": "2.1"
